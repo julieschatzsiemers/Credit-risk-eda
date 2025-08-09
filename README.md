@@ -8,7 +8,7 @@ Quick, recruiter-friendly look at default rates across **FICO bands**, **grade**
 - **60-month** loans default more than **36-month** (**32.5%** vs **16.0%**).
 
 ## How to run
-- Open the notebook (`LC_Credit_Risk_EDA_starter.ipynb`) in Colab or locally.
+- Open the notebook (`LC_Credit_Risk_EDA_clean.ipynb`) in Colab or locally.
 - Set `DATA_PATH` to your file path (e.g., `/content/drive/MyDrive/loans.csv` or a small `loans_sample.csv`).
 - Run all cells top → bottom. Requirements: `pandas`, `matplotlib`, `jupyter`.
 
